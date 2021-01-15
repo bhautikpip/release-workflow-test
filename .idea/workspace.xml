@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90f0647b-eb7d-4e6d-abce-7f23e2549af4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
-    </list>
+    <list default="true" id="90f0647b-eb7d-4e6d-abce-7f23e2549af4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610672076436</updated>
-      <workItem from="1610672077963" duration="3062000" />
+      <workItem from="1610672077963" duration="3192000" />
     </task>
     <servers />
   </component>
