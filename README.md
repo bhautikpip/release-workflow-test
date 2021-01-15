@@ -1,2 +1,2 @@
-# test-package-lock-repo
-Repo to test some things out with lerna
+# release-workflow-test
+Repo to test node sdk release workflow
