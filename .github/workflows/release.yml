@@ -30,10 +30,10 @@ jobs:
             */*/node_modules
           key: ubuntu-latest-${{ hashFiles('**/package.json') }}
 
-      - name: Execute tests with Lerna
-        run: |
-          npm install
-          npx lerna bootstrap --hoist
+#      - name: Execute tests with Lerna
+#        run: |
+#          npm install
+#          npx lerna bootstrap --hoist
 
       - name: Publish package to npm
         run: npx lerna publish from-package --exact
