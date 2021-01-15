@@ -1,5 +1,5 @@
 {
-  "name": "test-package-lock-repo-express",
+  "name": "release-workflow-test-express",
   "version": "1.3.0",
   "description": "\"Test express for my lerna repo\"",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willarmiros/test-package-lock-repo.git"
+    "url": "git+https://github.com/bhautikpip/release-workflow-test"
   },
   "peerDependencies": {
     "test-package-lock-repo-core": "^1.0.11"
@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/willarmiros/test-package-lock-repo/issues"
+    "url": "https://github.com/bhautikpip/release-workflow-test/issues"
   },
-  "homepage": "https://github.com/willarmiros/test-package-lock-repo#readme"
+  "homepage": "https://github.com/bhautikpip/release-workflow-test/blob/master/README.md"
 }
