@@ -36,7 +36,7 @@ jobs:
 #          npx lerna bootstrap --hoist
 
       - name: Publish package to npm
-        run: npx lerna publish from-package --exact
+        run: npx lerna publish from-package --yes --exact
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
